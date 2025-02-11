@@ -1,0 +1,53 @@
+body {
+  background: black;
+}
+p {
+  color: white;
+  font-family: arial;
+  font-size:20px;
+}
+h1 {
+  font-weight: bold;
+  color: white;
+  font-family: Georgia;
+  font-size: 30px;
+}
+h3 {
+  color: white;
+  font-family: Georgia;
+  font-size: 30px;
+}
+h2 {
+  color:white;
+  font-family: Georgia;
+  font-size: 30px;
+}
+ul {
+  color:white;
+  font-family: arial;
+  font-size:20px;
+}
+ol {
+  color:white;
+  font-family: arial;
+  font-size: 20px;
+}
+img {
+  width:800px;
+  border-radius: 50px;
+}
+
+.first > p {
+  font-family: inherit;
+  font-size: 30px;
+  }
+
+.contact > p {
+  font-family:cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+.blog > ol {
+  font-family:fantasy;
+}
